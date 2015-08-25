@@ -1,0 +1,33 @@
+{
+  "name": "kui-base",
+  "version": "0.0.1",
+  "description": "kui-base-npm",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x-yao/kui-npm.git"
+  },
+  "author": "xyao",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "3.9.0",
+    "gulp-sass":"^2.0.0",
+    "gulp-uglify": "1.2.0",
+    "gulp-copy": "0.0.2",
+    "gulp-postcss": "6.0.0",
+    "gulp-cssmin": "0.1.7",
+    "gulp-autoprefixer":"^2.3.0",
+    "gulp-rename":"^1.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/x-yao/kui-npm/issues"
+  },
+  "maintainers": [
+    {
+      "name": "xyao",
+      "email": "xyao201@qq.com"
+    }
+  ],
+  "homepage": "https://github.com/x-yao/kui-npm#readme"
+}

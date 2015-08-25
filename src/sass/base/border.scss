@@ -1,0 +1,7 @@
+@import 
+	"../util/variable";
+
+.ui-border-t {
+	transform:scale(.6);
+    border-top: 1px solid $borderColor;
+}
